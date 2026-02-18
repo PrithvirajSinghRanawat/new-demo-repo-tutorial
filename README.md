@@ -1,7 +1,9 @@
 # Hello User,
 <br>
-this is a sample repo.
+This is a sample repo.
 <br>
-this text is added recently.
+This text is added recently.
+<br>
+A new line will be added to test out merge.
 
 Result - Made just for learning.
